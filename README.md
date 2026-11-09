@@ -108,3 +108,6 @@ python main.py
 
 \- \[Markdown Guide](https://www.markdownguide.org/)
 
+
+## Description
+CSE103 lab repository - LAB 3.
