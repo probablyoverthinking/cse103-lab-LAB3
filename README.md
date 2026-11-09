@@ -6,3 +6,4 @@ This is my first Git and GitHub project for CSE103 Lab 3.
 - main.py
 - README.md
 - .gitignore
+- Updated README directly from GitHub for CSE103 Lab 3.
